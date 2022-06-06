@@ -1,4 +1,4 @@
-# Formal and Informal
+# Appendix B: Formal and Informal
 
 What is the difference between formal and informal language?
 

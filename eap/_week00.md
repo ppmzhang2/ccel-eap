@@ -1,6 +1,6 @@
-# Assignment
+# Week 0
 
-## Week 1-01
+## Week 0-1
 
 ### Reading
 
@@ -72,7 +72,6 @@ make friends with some amazing and inspiring people.
 5. Did the text match your idea of what a university is?
 6. Are universities necessary? Why? Why not?
 
-
 ### Writing
 
 Write a short essay about the following
@@ -82,7 +81,7 @@ studying at school face to face? You should write about 150 words.
 
 Key to EAP Foundation
 
-## Week 1-01
+## Week 0-2
 
 ### Reading
 
@@ -164,3 +163,115 @@ What points does the author make about:
 5. building academic vocabulary?
 
 Write your answers in full sentences.
+
+## Week 0-3
+
+### Reading
+
+TASK 4 Cohesion - using pronouns and determiners
+
+Look again at the paragraph from Task 2.1. Decide what each word in bold refers to.
+
+Observation is an important way for employers to assess their workforce.
+**It** is important because it allows the assessor to see the employee working
+and interacting with other employees, and to decide how effective **they** are
+at carrying out their duties and responsibilities.
+Unlike other methods of assessment, such as psychometric tests and interviews,
+observation is simple and direct.
+Psychologically, observation is less threatening and in terms of cost, **it**
+is also likely to be cheaper than other methods.
+For **these** reasons, observation is a very practical and effective assessment
+method for people at work.
+
+2. Complete the paragraph using the words in the list. You need to use some
+words more than once.
+
+they their them this some who
+
+One of the major health challenges facing developed countries today is that
+increasing numbers of people are doing little or no exercise.
+Recent research indicates a growth in the number of
+people **who** appear to spend most of their day sitting down.
+As a result, **they** are becoming more at risk of serious illness, including
+heart disease.
+**Some** people report that **their** long working hours do not allows **them**
+enough time for exercise, while others admit that **they** prefer to do
+sedentary activities like watching television.
+The problem is serious from a number of perspectives.
+It has been estimated to cost national health services up to 10% of **their**
+entire budgets in related treatment.
+For the people concerned, **their** lack of exercise is likely to have a
+negative effect on **their** overall quality of life.
+Exercise is also a social activity, so a lack of **this** can result in fewer
+opportunities for social interaction.
+The lack of exercise among certain groups of people is a very serious problem
+today with significant health, financial, and social impacts.
+
+TASK 5 Linking topic sentences and concluding sentences
+
+Read topic sentences 1-3. Decide which concluding sentence, a or b, is more
+likely to end the paragraph.
+
+Example:
+
+Organized tourism is becoming more personalized with the growth of individual
+trip advisers.
+
+1. In short, the development of trip advisers meets the needs of individual
+tourists who want a specific holiday which can only be delivered on an
+individual basis.
+2. Mass-market tourism has developed rapidly since the 1960s.
+
+Sentence a refers back to the paragraph topic of individual trip advisers, and
+seems to state the main point. Sentence b does not seem relevant to the topic.
+
+1. Continuing professional development, or CPD, is becoming more important in
+the workplace.
+   1. **These examples show that CPD is increasing in importance in both public
+      and private companies.**
+   2. Workplace environments vary greatly across different cultures and
+      countries.
+2. Recent research suggests that smart phones are being used by children at
+   younger ages, even at pre-primary school age.
+   1. This research shows that smart phone technology has been developing
+      rapidly for several years, and has greatly helped people of all ages.
+   2. **The increasing use of smart phones among very young children is not
+      risk-free, and can lead to children using dangerous websites.**
+3. Another cause of unemployment is poor personal organization.
+   1. **This discussion shows the importance of personal organization in finding
+      a job.**
+   2. Therefore, unemployment has at least three main causes, including poor
+      government planning, economic uncertainty, and poor organization by
+      individual people.
+
+Work in pairs. Discuss your answers and give reasons.
+Look again at the topic sentences and concluding sentences in 1. Note down
+words and phrases from each sentence that you can use in your own writing on
+any topic.
+
+Examples:
+
+1. (topic/ is becoming more important in (place).
+2. These examples show that [topic) is developing in importance in (place).
+
+### Writing
+
+Presentation
+
+- structure
+  - greetings
+  - introduce oneself
+  - introduction to the topic
+  - overview of the presentation
+- staging / signposting language
+  - in this presentation today I am going to discuss ...
+  - the presentation is divided into ...
+  - to begin with I am going to talk about ...
+  - let's look at ...
+  - first / and then / finally
+  - first of all
+  - now let's move on to the second point
+  - this brings us to the third part of ...
+  - to sum up
+  - That's all of my presentation. Thank you for listening.
+- intonation and pausing
