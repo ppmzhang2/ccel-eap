@@ -3,9 +3,9 @@
 ## Table of Content
 
 - [Week 0](./eap/_week00.md)
+- [Week 1](./eap/_week01.md)
 - [Appendix A: Resources](./eap/appx_a_resources.md)
 - [Appendix B: Formal and Informal](./eap/appx_b_formal.md)
-- [Appendix C: Answers](./eap/appx_c_ans.md)
 
 ## Installation
 

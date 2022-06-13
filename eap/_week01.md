@@ -71,6 +71,24 @@ Being a student is an important part of people’s lives.
 What are three advantages of being a student?
 Use clear examples to help with your explanation.
 
+When discussing the importance of schooling, most people think of compulsory
+education as children of school age are obliged to receive primary education.
+However, it is far from the only reason, or even the greatest.
+There are three reasons people would choose to be a student.
+
+Being a student can help secure well-paid jobs.
+It is not easy to find a job by competing with dozen, if not hundreds, job
+seekers.
+Students who have developed practical skills and obtained qualifications
+employers need have a better chance to stand out from other candidates to win
+the post.
+
+Although students may not expect to learn specific vocational skills in most
+schools, they can develop critical thinking and problem solving capabilities.
+
+Students on campus have more social interaction than those isolated in their
+houses.
+
 ## Week 1-2
 
 ### Using coordinators to create compound sentences
