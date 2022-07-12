@@ -16,6 +16,7 @@
   - blatantly
   - indeed
   - certainly
+  - than ever before
 - feeling
   - fortunately / unfortunately
   - surprisingly
