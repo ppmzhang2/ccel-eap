@@ -27,12 +27,13 @@ from restraints brought by outdated technology of the last century.
 
 ## Week 1-5
 
-A large number of mobile phones have been stolen from your college recently.
-The director of the college wants to avoid this problem by banning mobile phone
-use in college and has asked you to write a report about this.
-You should explain what the advantages and disadvantages of this idea would be
-and make recommendations.
-Write your report in 140-190 words.
+> A large number of mobile phones have been stolen from your college recently.
+> The director of the college wants to avoid this problem by banning mobile
+> phone use in college and has asked you to write a report about this.
+> You should explain what the advantages and disadvantages of this idea would
+> be and make recommendations.
+>
+> Write your report in 140-190 words.
 
 **A Report on Banning Mobiles on the Campus**
 

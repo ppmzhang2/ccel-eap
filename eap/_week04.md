@@ -342,17 +342,59 @@ future.
 
 ### Report Writing 2
 
-An international research group is carrying out an investigation into
-employment prospects for young people around the world.
-You have been asked by the group to write a report about your local area,
-including the following points:
+> An international research group is carrying out an investigation into
+> employment prospects for young people around the world.
+> You have been asked by the group to write a report about your local area,
+> including the following points:
+>
+> - the types of employment available for young people in your area
+> - the difficulties faced by young people searching for work
+> - possible future developments in the employment situation for young people
+>   in your area
+>
+> Write your report in 220-260 words.
 
-- the types of employment available for young people in your area
-- the difficulties faced by young people searching for work
-- possible future developments in the employment situation for young people in
-  your area
+**The Employment Situation for Young People in China**
 
-Write your report in 220-260 words.
+**Introduction**
+
+This report examines the various employment options available for young people
+in China and the difficulties people will face searching for work.
+It will also consider possible future developments in the employment situation
+for young people.
+(Don’t forget to say where your information came from.
+Online research? A survey?)
+
+**Working in Business**
+
+Both the state-owned and the private businesses have been facing severe
+economic slowdown pressure for the last half year.
+Enterprises struggling to service the economic winter tend to slash their
+headcounts, even for tech giants like Alibaba and Tencent.
+For fresh graduates without working experience, the chance to land a job with a
+satisfactory salary is slim.
+
+**Working for Government**
+
+Over the past few years, work-age young people in China have been craving
+government jobs since usual civil servants do not need to worry about the
+possibility of being laid off, and a staggering 1.4 million people took the
+civil servant exam last year.
+As a result, there is only a 1% passing rate on average.
+Moreover, with the recent economic downturn, civil servants across the country
+now face payment cuts ranging from 20% to more than 30%, especially for
+employees from local governments.
+(I don’t know if this phrase is technically wrong, but it sounds very strange
+to me.
+I’d consider changing it unless you’ve seen it used a few times before.)
+
+**Outlook**
+
+As the zero-covid crackdown continues and the global economy is threatened by
+hyperinflation, the employment outlook for young people in China will remain
+bleak.
+Only a substantial policy change will improve the situation, which, however,
+seems unlikely for the foreseeable future.
 
 ### Presentation
 
